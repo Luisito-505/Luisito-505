@@ -1,2 +1,2 @@
 Hola mundo "mi nombre es"(Jorge) 
-escribe"Tu nonbre>18"
+escribe"tu edad es>18"
